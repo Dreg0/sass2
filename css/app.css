@@ -6165,14 +6165,14 @@ button.list-group-item-danger {
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/bower_components\/bootstrap-sass\/assets\/stylesheets\/bootstrap\/mixins\/_panels\.scss}line{font-family:\000036}}
   .panel-default > .panel-heading {
     color: #333333;
-    background-color: #f5f5f5;
+    background-color: #489C6B;
     border-color: #ddd; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/bower_components\/bootstrap-sass\/assets\/stylesheets\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000311}}
     .panel-default > .panel-heading + .panel-collapse > .panel-body {
       border-top-color: #ddd; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/bower_components\/bootstrap-sass\/assets\/stylesheets\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000314}}
     .panel-default > .panel-heading .badge {
-      color: #f5f5f5;
+      color: #489C6B;
       background-color: #333333; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/bower_components\/bootstrap-sass\/assets\/stylesheets\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000320}}
   .panel-default > .panel-footer + .panel-collapse > .panel-body {
@@ -10294,10 +10294,10 @@ button.close {
   overflow: visible;
   clip: auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/sass\/_custom\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/sass\/_custom\.scss}line{font-family:\000032}}
 .navbar {
   margin-bottom: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/sass\/_custom\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/sass\/_custom\.scss}line{font-family:\000034}}
   .navbar a {
     color: #ffffff !important; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/sass\/_custom\.scss}line{font-family:\000038}}
@@ -10337,7 +10337,7 @@ button.close {
     width: 100%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/sass\/_custom\.scss}line{font-family:\0000348}}
-.panndel-heading h4 {
+.panel-heading h4 {
   color: #ffffff; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Andrew\/Desktop\/tutorials\/sass2\/sass\/_custom\.scss}line{font-family:\0000353}}

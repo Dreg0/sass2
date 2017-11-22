@@ -1,9 +1,9 @@
+
 .navbar{
     margin-bottom:0;
     a{
     color:set-text-color($main-color) !important;
-    //wount work without important due to bootstrap
-    //function for changing font color to dark on light bkg and reverse: light of text will be opposite to bkg
+   
     }
     .fa{
         font-size: 19px;
@@ -45,7 +45,7 @@
     }
 }
 
-.panndel-heading h4{
+.panel-heading h4{
     color:set-text-color($main-color);
 }
 
