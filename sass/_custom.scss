@@ -1,0 +1,86 @@
+.navbar{
+    margin-bottom:0;
+    a{
+    color:set-text-color($main-color) !important;
+    //wount work without important due to bootstrap
+    //function for changing font color to dark on light bkg and reverse: light of text will be opposite to bkg
+    }
+    .fa{
+        font-size: 19px;
+    }
+}
+.showcase{
+    min-height: 100%;
+    padding: 30px 0;
+    background: url(../images/bg.jpeg) no-repeat 0 -300px;
+    
+    h1{
+        font-size: 60px;
+    }
+    .container{
+        background: #fff;
+        opacity: 0.8;
+        padding: 20px 30px 30px 30px;
+    }
+}
+
+.section-a{
+    padding: 30px 0;
+    text-align: center;
+    background: $main-color;
+    color:set-text-color($main-color);
+    //function for changing font color to dark on light bkg and reverse: light of text will be opposite to bkg
+    
+    .fa{
+       font-size: $icon-size; 
+    }
+}
+
+.section-b{
+    background: #eae6e3;
+    padding: 30px 0;
+
+    img{
+        width: 100%;
+    }
+}
+
+.panndel-heading h4{
+    color:set-text-color($main-color);
+}
+
+
+.section-c{
+    padding: 60px 0;
+    text-align: center;
+    background: $main-color;
+    color:set-text-color($main-color);
+
+    .btn-primary{
+    background:darken($main-color, 10%); 
+    }
+}
+
+footer{
+    text-align: center;
+    padding: 30px 0;
+    background:darken($main-color, 10%);
+    color:set-text-color($main-color);
+}
+
+
+/*About customise*/
+.panel-title {
+    color:set-text-color($main-color);
+}
+
+.main{
+    margin-top:30px;
+}
+
+.title-bar{
+    background: url(../images/bg.jpeg) no-repeat 0 -100px;
+    padding-bottom: 10px;
+    border-bottom: 4px solid $main-color; 
+}
+
